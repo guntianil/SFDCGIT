@@ -5,5 +5,5 @@
         <members>Book__c</members>
         <name>CustomObject</name>
     </types>
-    <version>51.0</version>
+    <version>50.0</version>
 </Package>
